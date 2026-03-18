@@ -8,4 +8,4 @@ I participate in hackathons to learn, gain experience, and connect with experts.
 
 * Competitive Programming (algorithms, data structures)
 * Advent of Code 2025
-* Learning AI & ML
+* Learning DS & ML
