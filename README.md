@@ -1,7 +1,7 @@
-## 👋 Hi, I'm a Competitive Programmer
+## 👋 Hi, I'm a Competitive Programmer and ML/DS learner
 
 I'm a competitive programmer with strong interest in algorithms and problem solving.
-I actively practice through Advent of Code 2025 and I'm exploring **Machine Learning & Data Science**.
+I actively practice through Advent of Code 2025 and I'm exploring **Machine Learning & Data Science** at School 21
 I participate in hackathons to learn, gain experience, and connect with experts.
 
 ### 💻 What I do
