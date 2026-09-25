@@ -48,4 +48,4 @@ robocontest 1745 max
 
 ### Stack
 
-Python · C++ · C · pandas · NumPy · SQL · Matplotlib · Seaborn · Plotly · machine learning · Jupyter · Git · Linux
+Python · C++ · C · pandas · SQL · Matplotlib · Seaborn · Plotly · machine learning · Jupyter · Git · Linux
