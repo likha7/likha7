@@ -1,12 +1,12 @@
 ## Solikha Dagarova
 
-Competitive programmer from Uzbekistan. Currently doing Data Science at School 21 and scraping things that would prefer not to be scraped.
+Competitive programmer from Uzbekistan. Now focused on machine learning and data science: School 21 Data Science track, plus the IT Park & World Bank AI/ML course.
 
 [LinkedIn](https://www.linkedin.com/in/solikha-dagarova-198b01267/) · [Codeforces](https://codeforces.com/profile/likhaa) · [LeetCode](https://leetcode.com/u/likha/)
 
 ```
 $ whoami
-competitive programmer, data science student, part-time reverse engineer
+competitive programmer, data science student, ML in progress
 
 $ cat achievements.txt
 EGOI 2024, 2025 ............... Uzbekistan National Team
@@ -25,11 +25,18 @@ robocontest 1745 max
 
 ### Projects
 
-- **[google-maps-scraper](https://github.com/likha7/google-maps-scraper-with-request)**: Google Maps data through its internal protobuf endpoints. No browser, no paid API.
-- **[facebook-pages-scraper](https://github.com/likha7/facebook-pages-scraper)**: kept getting 400s, turned out to be TLS fingerprinting. Now it impersonates Chrome.
-- **[uzum-reviews-scraper](https://github.com/likha7/uzum-reviews-scraper)**: reviews from Uzum, infinite scroll included. Playwright.
-- **[ai-chat-app](https://github.com/likha7/ai-chat-app)**: small chat app on Llama 3.3. Django + React.
+**ML / data science**
+
+- **[ml-advanced](https://github.com/likha7/Data-Science-Project2-Task5)**: Machine Learning: Advanced.
+- **[intro-to-ml](https://github.com/likha7/Data-Science-Project2-Task4)**: Intro to Machine Learning.
+- **[food-and-nutrition](https://github.com/likha7/Data-Science-Project2-Task6)**: Food and nutrition data project.
 - **[movielens-analysis](https://github.com/likha7/Data_Science_project1_task6)**: MovieLens dataset, pandas, a notebook.
+- **[pandas-sql-viz](https://github.com/likha7/Data_Science_Project2_task3)**: pandas, SQL, Matplotlib, Seaborn, Plotly.
+- **[ai-chat-app](https://github.com/likha7/ai-chat-app)**: small chat app on Llama 3.3. Django + React.
+
+**Older stuff**
+
+- **[google-maps-scraper](https://github.com/likha7/google-maps-scraper-with-request)**, **[facebook-pages-scraper](https://github.com/likha7/facebook-pages-scraper)**, **[uzum-reviews-scraper](https://github.com/likha7/uzum-reviews-scraper)**: from my web scraping phase.
 - **[advent-of-code](https://github.com/likha7/Advent-of-Code)**: C++.
 
 ### Other things I do
@@ -41,4 +48,4 @@ robocontest 1745 max
 
 ### Stack
 
-C++ · Python · C · pandas · SQL · machine learning · Git · Linux · requests · curl_cffi · Playwright · BeautifulSoup
+Python · C++ · C · pandas · NumPy · SQL · Matplotlib · Seaborn · Plotly · machine learning · Jupyter · Git · Linux
