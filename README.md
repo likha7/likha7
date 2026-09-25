@@ -1,54 +1,64 @@
-## Hi, I'm Solikha Dagarova 👋
+## hiii, I'm Solikha 👾
 
-Competitive programmer from Uzbekistan · **EGOI 2024 & 2025, Uzbekistan National Team** · Data Science student & mentor at School 21
+> competitive programmer by day, competitive programmer by night, occasionally sleeps 💀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solikha-dagarova-198b01267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-where_i_pretend_to_be_serious-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solikha-dagarova-198b01267/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-likhaa-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/likhaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-likha-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/likha/)
 
-I've represented Uzbekistan twice at the European Girls' Olympiad in Informatics and solved 1,400+ problems
-across Codeforces, RoboContest, LeetCode and CSES. Now I study Data Science at School 21 Tashkent,
-mentor girls in Data Science, and build web scrapers end to end.
+```python
+class Solikha:
+    location   = "Uzbekistan 🇺🇿"
+    main_quest = "EGOI x2 for Uzbekistan (Netherlands 2024, Germany 2025) ✈️"
+    side_quest = "Data Science @ School 21 + mentoring girls in DS"
+    problems_solved = "1400+ and counting (my WA count is classified)"
+    languages  = ["C++", "Python", "C", "Uzbek", "English", "Russian (loading... 12%)"]
+    fuel       = "tea + segment trees"
 
-### 🏆 Highlights
+    def debug(self, code):
+        return "it works and I don't know why" if code.works else "it doesn't and I don't know why"
+```
 
-- **EGOI**: Uzbekistan National Team, Eindhoven 2024 and Bonn 2025
-- **Jane Street WiSE 2026**: Women in Science and Engineering program, London
-- **ICT4Girls Uzbekistan**: National Gold Medalist, 2024 and 2025
-- **APIO 2025** participant
-- **Digital Generation Girls 2026 (AI track)**: 1st place at City and Regional stages, National Finalist
-- **Jane Street Women+ Advent of Code 2025**: all 12 puzzles solved
-- **Developer Girls Republic Hackathon 2024**: 2nd place
-- Ratings: Codeforces Pupil (max 1284) · LeetCode 1,473 · RoboContest Expert (max 1745)
+### 🏆 flex zone (sorry not sorry)
 
-### 🛠️ Projects
+- 🇺🇿 **EGOI 2024 & 2025**: represented Uzbekistan at the European Girls' Olympiad in Informatics, twice
+- 🏦 **Jane Street WiSE 2026**: flew to London to talk math with people way smarter than me
+- 🥇 **ICT4Girls**: national gold, 2024 *and* 2025 (back-to-back, no big deal 💅)
+- 🌏 **APIO 2025**: showed up, suffered, learned
+- 🤖 **Digital Generation Girls 2026 (AI track)**: 1st at City & Regional, National Finalist
+- 🎄 **Jane Street Women+ Advent of Code 2025**: 12/12 puzzles, Christmas saved
+- 🥈 **Developer Girls Hackathon 2024**: 2nd place (1st place, I'm coming for you)
+- 📈 Codeforces Pupil (max 1284) · LeetCode 1,473 · RoboContest Expert (max 1745). yes the pupil era is temporary, thx
 
-| Project | What it does | Stack |
+### 🕷️ stuff I built (mostly scraping things that didn't want to be scraped)
+
+| project | the lore | stack |
 |---|---|---|
-| [Google Maps Scraper](https://github.com/likha7/google-maps-scraper-with-request) | Reverse-engineered Google Maps' internal protobuf endpoints. Extracts businesses and reviews with no browser automation and no paid APIs | Python, protobuf, requests |
-| [Facebook Pages Scraper](https://github.com/likha7/facebook-pages-scraper) | Fixed persistent 400 errors caused by TLS fingerprinting with Chrome impersonation. No login, no API key | Python, curl_cffi |
-| [Uzum Reviews Scraper](https://github.com/likha7/uzum-reviews-scraper) | Scrapes JS-rendered reviews from Uzbekistan's largest e-commerce platform, handling infinite scroll | Python, Playwright |
-| [AI Chat App](https://github.com/likha7/ai-chat-app) | Minimal AI web chat powered by Llama 3.3 via Groq | Django, React |
-| [MovieLens Analysis](https://github.com/likha7/Data_Science_project1_task6) | Modular Python analysis of the MovieLens dataset with a notebook that tells the data's story | Python, pandas, Jupyter |
-| [Advent of Code](https://github.com/likha7/Advent-of-Code) | My Advent of Code solutions | C++ |
+| [Google Maps Scraper](https://github.com/likha7/google-maps-scraper-with-request) | reverse-engineered Google Maps' secret protobuf endpoints. no browser, no paid API, just vibes and DevTools | Python, protobuf, requests |
+| [Facebook Pages Scraper](https://github.com/likha7/facebook-pages-scraper) | Facebook kept saying 400. turns out it was sniffing my TLS fingerprint. so I pretended to be Chrome 🥸 | Python, curl_cffi |
+| [Uzum Reviews Scraper](https://github.com/likha7/uzum-reviews-scraper) | infinite scroll? more like infinite reviews in my CSV | Python, Playwright |
+| [AI Chat App](https://github.com/likha7/ai-chat-app) | a tiny chat app with Llama 3.3 inside. it's nicer than most people | Django, React |
+| [MovieLens Analysis](https://github.com/likha7/Data_Science_project1_task6) | turned a movie dataset into a story. no spoilers | Python, pandas, Jupyter |
+| [Advent of Code](https://github.com/likha7/Advent-of-Code) | elves had problems, I had solutions | C++ |
 
-### 🤝 Mentoring & community
+### 🫶 giving back era
 
-- **Data Science Mentor** at Digital Kaleidoscope (School 21 · UNICEF · Women in Tech)
-- **Speaker** at IT Navigator, presenting the School 21 Data Science track
-- **Mentor** at Elle Coders 21, School 21's women-in-tech community
-- **Contest Hall Volunteer** at IOI 2026, Tashkent
-- Former **Project Evaluator** at School 21 Samarkand and **competitive programming instructor** (C++, algorithms)
+- **DS Mentor** @ Digital Kaleidoscope (School 21 · UNICEF · Women in Tech): helping girls from Fergana, Andijan & Namangan get into tech
+- **Speaker** @ IT Navigator: convincing people Data Science is fun (it is)
+- **Mentor** @ Elle Coders 21: girls who code, but make it a community
+- **Volunteer** @ IOI 2026 Tashkent: watched the world's best contestants cook 🍳
+- ex-**Project Evaluator** @ School 21 & ex-**CP instructor**: professionally asked "but why did you use a for loop here?"
 
-### 💻 Skills
+### 🧰 inventory
 
-- **Languages:** C++, Python, C
-- **Data Science:** pandas, SQL, Matplotlib, Seaborn, Plotly, machine learning
-- **Algorithms:** DP, graphs, greedy, segment trees, Fenwick trees, strings, binary search
-- **Tools:** Git, Linux, requests, curl_cffi, BeautifulSoup4, Playwright
+`C++` `Python` `C` `pandas` `SQL` `Matplotlib` `Seaborn` `Plotly` `ML` `Git` `Linux` `requests` `curl_cffi` `BeautifulSoup4` `Playwright`
 
-### 📚 Currently
+algos I'm friends with: DP, graphs, greedy, segment trees, Fenwick trees, strings, binary search (the last one is only friendly when I get the bounds right)
 
-- Studying Data Science at **School 21**
-- Taking the **AI & ML Course** by IT Park Uzbekistan & World Bank (one of 250 selected participants)
-- BA in Management at **Uzbekistan State World Languages University**
+### 📍 current status
+
+- 📚 Data Science @ **School 21**
+- 🤖 AI & ML Course by **IT Park & World Bank** (1 of 250 who made it in)
+- 🎓 BA Management @ **UzSWLU** (yes, a competitive programmer studying management, plot twist)
+
+<p align="center"><i>if you read all of this, you're legally obligated to follow me 🫵</i></p>
